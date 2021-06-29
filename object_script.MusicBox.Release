@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\musicwidget.o
+./release\songsfile.o
+./release\lrcthread.o
+./release\musicplaythread.o
+./release\qrc_imagesresource.o
+./release\moc_musicwidget.o
+./release\moc_songsfile.o
+./release\moc_lrcthread.o
+./release\moc_musicplaythread.o
+);

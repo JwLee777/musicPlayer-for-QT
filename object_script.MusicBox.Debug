@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\musicwidget.o
+./debug\songsfile.o
+./debug\lrcthread.o
+./debug\musicplaythread.o
+./debug\qrc_imagesresource.o
+./debug\moc_musicwidget.o
+./debug\moc_songsfile.o
+./debug\moc_lrcthread.o
+./debug\moc_musicplaythread.o
+);
